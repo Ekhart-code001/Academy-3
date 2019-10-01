@@ -1,0 +1,75 @@
+h1{ 
+border: 5px solid red;
+}
+.logo {
+	width: 100px;
+	margin-top:30px;
+	
+}
+.header{
+	margin-left: 30px;
+}
+.navigation {
+	margin-top: 20px;
+	
+}
+
+.navigation-a {
+	padding: 3px 0px;
+	display: inline-block;
+	color: #EE4036;
+	font-size: 22px;
+}
+.navigation-a:hover{
+	color: #336699;
+}
+.baner-img {
+	margin-left:30px;
+	padding-top:25px;
+	
+}
+.social-li {
+	display: inline-block;
+	float: left;
+	margin-left:30px;
+	margin-top: 20px;
+}
+.social-a-fb {
+	padding-right: 30px;
+	border-right-width: 1px;
+    border-right-style: solid;
+	border-right-color: #336699;
+	display: inline-block;
+	
+}
+.logo27{
+	padding:30px 0px 10px 0px;
+}
+.maisi{
+	color: #336699;
+	font-size:24px;
+	font-family: BPG Nino Mtavruli;
+}
+section { margin-left:30px;
+}
+.h2 {
+	font-size:24px;
+	font-family:  BPG Nino Mtavruli;
+	padding-top:26px;
+	
+}
+.face { 
+  padding: 23px 0px 30px 0px;
+}
+.contact{
+	text-align:center;
+	margin-top:160px;
+	
+	margin-bottom:160px;
+	
+}
+.li1 {
+	color:#336699;
+	font-size:24px;
+	font-family: BPG Nino Mtavruli;
+}
