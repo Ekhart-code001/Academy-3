@@ -73,3 +73,6 @@ section { margin-left:30px;
 	font-size:24px;
 	font-family: BPG Nino Mtavruli;
 }
+.value {
+	color:gray;
+}
